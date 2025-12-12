@@ -3,12 +3,12 @@
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
 Sou um Desenvolvedor Web e Mobile, apaixonado por tecnologia, interfaces modernas e criação de soluções simples e eficientes.
-Atualmente trabalho com desenvolvimento de sites e aplicativos, usando tecnologias modernas como CSS, HTML, React, React Native, NestJS e muito mais.
+Atuo no desenvolvimento de aplicações web e mobile utilizando tecnologias modernas
 
 ## 
 
 - 🔭 Atualmente estou trabalhando em: desenvolvimento de sites e aplicativos usando HTML, CSS, JavaScript, React, React Native, além de estudar APIs com Node.js e NestJS.
-- 🌱 Atualmente estou aprendendo: desenvolvimento mobile, TypeScript, arquitetura backend, Firebase, bancos de dados e boas práticas de segurança.
+- 🌱 Aprendendo: desenvolvimento mobile, TypeScript, arquitetura backend, Firebase, bancos de dados e boas práticas de segurança.
 - 👯 Quero colaborar em: projetos web e mobile, usando CSS, HTML, React, React Native, JavaScript e Node.js.
 - 🤔 Estou procurando ajuda com: melhorar minhas habilidades em fornt-end, integrações com APIs externas e DevOps.
 - 💬 Fale comigo sobre: React, JavaScript, HTML/CSS, Node.js, interfaces responsivas, mobile, web e desenvolvimento moderno.
