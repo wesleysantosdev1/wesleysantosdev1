@@ -1,5 +1,6 @@
+# <samp>Wesley Santos Dev</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px" height="30px">
 
-## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">, Eu sou o Wesley Santos Dev
+## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
 Sou um Desenvolvedor Web e Mobile, apaixonado por tecnologia, interfaces modernas e criação de soluções simples e eficientes.
 Atualmente trabalho com desenvolvimento de sites e aplicativos, usando tecnologias modernas como CSS, HTML, React, React Native, NestJS e muito mais.
