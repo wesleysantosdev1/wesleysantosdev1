@@ -1,6 +1,9 @@
-## Oi, Eu sou o Wesley Santos Dev
+## Hello World! 🌍, Eu sou o Wesley Santos Dev
 
+Sou um Desenvolvedor Web e Mobile, apaixonado por tecnologia, interfaces modernas e criação de soluções simples e eficientes.
+Atualmente trabalho com desenvolvimento de sites e aplicativos, usando tecnologias modernas como CSS, HTML, React, React Native, NestJS e muito mais.
 
+## 
 
 - 🔭 Atualmente estou trabalhando em: desenvolvimento de sites e aplicativos usando HTML, CSS, JavaScript, React, React Native, além de estudar APIs com Node.js e NestJS.
 - 🌱 Atualmente estou aprendendo: desenvolvimento mobile, TypeScript, arquitetura backend, Firebase, bancos de dados e boas práticas de segurança.
