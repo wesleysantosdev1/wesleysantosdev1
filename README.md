@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente estou trabalhando em: desenvolvimento de sites e aplicativos usando HTML, CSS, JavaScript, React, React Native, além de criar APIs com Node.js e NestJS.
+- 🔭 Atualmente estou trabalhando em: desenvolvimento de sites e aplicativos usando HTML, CSS, JavaScript, React, React Native, além de estudar APIs com Node.js e NestJS.
 - 🌱 Atualmente estou aprendendo: desenvolvimento mobile, TypeScript, arquitetura backend, Firebase, bancos de dados e boas práticas de segurança.
 - 👯 Quero colaborar em: projetos web e mobile, usando CSS, HTML, React, React Native, JavaScript e Node.js.
 - 🤔 Estou procurando ajuda com: melhorar minhas habilidades em fornt-end, integrações com APIs externas e DevOps.
