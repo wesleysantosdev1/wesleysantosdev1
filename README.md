@@ -8,8 +8,8 @@ Atuo no desenvolvimento de aplicações web e mobile utilizando tecnologias mode
 ## 
 
 - 🔭 Atualmente estou trabalhando em: desenvolvimento de sites e aplicativos usando HTML, CSS, JavaScript, React, React Native, além de estudar APIs com Node.js e NestJS.
-- 🌱 Aprendendo: desenvolvimento mobile, TypeScript, arquitetura backend, Firebase, bancos de dados e boas práticas de segurança.
-- 👯 Quero colaborar em: projetos web e mobile, usando CSS, HTML, React, React Native, JavaScript e Node.js.
+- 🌱 Desenvolvimento mobile, TypeScript, arquitetura backend, Firebase, bancos de dados e boas práticas de segurança.
+- 👯 Projetos web e mobile, usando CSS, HTML, React, React Native, JavaScript e Node.js.
 - 🤔 Estou procurando ajuda com: melhorar minhas habilidades em fornt-end, integrações com APIs externas e DevOps.
 - 💬 Fale comigo sobre: React, JavaScript, HTML/CSS, Node.js, interfaces responsivas, mobile, web e desenvolvimento moderno.
 - 📫 Como me encontrar: https://www.linkedin.com/in/wesley-santos-0a2b20334/
